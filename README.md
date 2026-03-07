@@ -1,3 +1,5 @@
+[![Build and Push Docker Image](https://github.com/clark0r/CertPatrol-Orchestrator/actions/workflows/docker-build.yml/badge.svg)](https://github.com/clark0r/CertPatrol-Orchestrator/actions/workflows/docker-build.yml)
+
 # CertPatrol Orchestrator
 
 Process orchestration platform for managing multiple [CertPatrol](https://github.com/ToritoIO/CertPatrol) instances with a modern web interface.
